@@ -1,0 +1,4 @@
+Ivanov 20000
+Petrov 30000
+Sidorov 5000
+Sobolev 10000
